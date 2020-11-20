@@ -1,0 +1,13 @@
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.exe
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.deps.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.runtimeconfig.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.runtimeconfig.dev.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\bin\Debug\netcoreapp3.1\AliceAdventures.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.csprojAssemblyReference.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.AssemblyInfoInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.AssemblyInfo.cs
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.csproj.CoreCompileInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\AliceAdventures\obj\Debug\netcoreapp3.1\AliceAdventures.genruntimeconfig.cache

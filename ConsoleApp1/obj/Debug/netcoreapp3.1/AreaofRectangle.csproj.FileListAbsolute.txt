@@ -1,0 +1,13 @@
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.exe
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.deps.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.runtimeconfig.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.runtimeconfig.dev.json
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\bin\Debug\netcoreapp3.1\AreaofRectangle.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.csprojAssemblyReference.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.AssemblyInfoInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.AssemblyInfo.cs
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.csproj.CoreCompileInputs.cache
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.dll
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.pdb
+C:\Users\racir\OneDrive\Desktop\LaunchCode\CSharp\intro-to-csharp\Exercises\CSharpClass1Exercises1\ConsoleApp1\obj\Debug\netcoreapp3.1\AreaofRectangle.genruntimeconfig.cache
